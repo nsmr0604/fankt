@@ -44,6 +44,6 @@ jobs:
           :fankt:fanbox-persistence-room:detektDebugAndroid
           :fankt:fantia:detektDebugAndroid
           :fankt:fanbox-core:ziplineApiCheck
-          :fankt:fanbox:ziplineTestTest
+          :fankt:fanbox:jvmTest
           :fankt:fanbox-persistence-room:testDebugUnitTest
           --continue

@@ -31,6 +31,7 @@ class RoomPlugin : Plugin<Project> {
                     "kspIosSimulatorArm64",
                     "kspIosX64",
                     "kspIosArm64",
+                    "kspJvm",
                 ).forEach {
                     add(it, libs.library("kmp-room-compiler"))
                 }

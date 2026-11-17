@@ -4,6 +4,7 @@ plugins {
     id("matsumo.primitive.android.common")
     id("matsumo.primitive.kmp.android")
     id("matsumo.primitive.kmp.ios")
+    id("matsumo.primitive.kmp.jvm")
     id("matsumo.primitive.room")
     id("matsumo.primitive.detekt")
     id("matsumo.primitive.maven.publish")
